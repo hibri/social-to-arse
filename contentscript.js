@@ -10,7 +10,7 @@ while(node = walk.nextNode()) {
         case 'ebola':
           return 'zombie';
         case 'Ebola':
-          return 'zombie';
+          return 'Zombie';
         case 'EBOLA':
           return 'ZOMBIE';
       }
